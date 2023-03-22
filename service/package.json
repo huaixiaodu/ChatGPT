@@ -2,7 +2,7 @@
   "name": "chatgpt-web-service",
   "version": "1.0.0",
   "private": false,
-  "description": "逆向机器人Service",
+  "description": "ChatGPT web service",
   "author": "ChatGPT<8319265@qq.com>",
   "keywords": [
     "chatgpt-web",
